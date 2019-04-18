@@ -1,6 +1,6 @@
 # Blog
 
-Have a peek »»» [https://www.attejuvonen.fi](https://www.attejuvonen.fi)
+Have a peek »»» [https://www.ekonometrihk.tech](https.www.ekonometrihk.tech)
 
 ## Features
 
