@@ -1,11 +1,10 @@
 ---
-title: About
+title: Kim
 ---
-<re-img src="avatar-large.jpeg" hovereffect=true></re-img>
+<re-img src="avatar-large.jpg" hovereffect=true></re-img>
 
-Hi there. I'm Atte Juvonen and this is my personal blog.
-I ramble about code, data, and other geeky interests.
-This blog is open sourced on [GitHub](https://www.github.com/baobabKoodaa/blog/),
-feel free to submit corrections or use the code to create your own blog.
+Burada ki amacımız, öngörü yapmaktır. Politikası önerisi yapmak değildir. O karar alıcıya kalmıştır. Biz ekonometrik methotların sınırlarını zorlayacağız. Yol nerede  bitecek..
+
+Dışarıda aydınlık bir dünya var.
 
 <re-icons></re-icons>

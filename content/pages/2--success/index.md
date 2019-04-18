@@ -2,4 +2,4 @@
 title: Delivered
 ---
 
-Thanks for reaching out. Your message is safely in my inbox. <br />
+Gizliliğe önem veriyoruz. Mesajın bizimle güvende. Cevabını verene kadar iletini güçlendirmeye bak.  <br />

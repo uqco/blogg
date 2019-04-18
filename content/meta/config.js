@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: "Atte Juvonen", // <title>
-  shortSiteTitle: "Atte Juvonen", // <title> ending for posts and pages
-  siteDescription: "Atte Juvonen",
-  siteUrl: "https://www.attejuvonen.fi",
+  siteTitle: "Ekonometrik Çıkarsamalar", // <title>
+  shortSiteTitle: "Ekonometrihk", // <title> ending for posts and pages
+  siteDescription: "Econometrihk",
+  siteUrl: "https://www.ekonometrihk.tech",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Atte Juvonen",
+  authorName: "İbrahim H. Karavaş",
   authorTwitterAccount: "",
-  authorGithub: "https://github.com/baobabkoodaa",
-  authorStackoverflow: "https://stackexchange.com/users/5678032/atte-juvonen?tab=accounts",
-  authorLinkedin: "https://linkedin.com/in/atte-juvonen-86b886113",
-  authorCodeforces: "https://codeforces.com/profile/baobab",
-  authorYoutube: "https://www.youtube.com/channel/UCfHqfHoSYL0V_fXA_JQkeLw?view_as=subscriber",
+  authorGithub: "https://github.com/uqco",
+  authorStackoverflow: "https://stats.stackexchange.com/users/245066/uqco",
+  authorLinkedin: "https://www.linkedin.com/in/ibrahimkaravas/",
+  authorCodeforces: "https://codeforces.com/",
+  authorYoutube: "https://www.youtube.com/",
 
   /* header text */
-  headerTitle: "atte juvonen",
+  headerTitle: "Ekonometrihk",
   headerSubTitle: "",
 
   /* manifest.json */
-  manifestName: "Atte Juvonen",
-  manifestShortName: "atteJuvonen", // max 12 characters
+  manifestName: "İbrahim H. Karavaş",
+  manifestShortName: "İHK", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -36,7 +36,7 @@ module.exports = {
   gravatarImgMd5: "",
 
   /* Contact form email destination. */
-  contactPostAddress: "https://script.google.com/macros/s/AKfycbztYnxhXCwheIhfGLl0JpvsNR6DbhJM-ujTK7Qc6TloeU_8Xro/exec",
+  contactPostAddress: "https://script.google.com/macros/s/AKfycbz0q8HI7YRzOR49Q-frUMEk4VWpLcyq5rjsgQZ8/exec",
 
   /* Email newsletter subscription link */
   emailSubLink: "https://app.mailjet.com/widget/iframe/3L7J/b3u"
