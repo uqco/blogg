@@ -1,47 +1,18 @@
+﻿---
+title: Ekonometri nedir? 
+tags: ["testimonies"]
+cover: financial.jpg
+author: ibrahim karavas
 ---
-title: Don't send your own email
-tags: ["email", "everything-is-broken"]
-cover: mailboxes.jpg
-author: atte juvonen
----
 
-  
-Ekonometri tam anlamıyla iktisadın ölçümü denemektir.
+Ekonometri tam anlamıyla “iktisadın ölçümü” demektir.
+İktisat bilimi ölçüm üzerine kurulu olduğu için,
+ekonometri iktisada en yakın disiplindir iktisadi ve sosyal göstergelerin ölçümünü içerir. 
+<re-img src="photo-1463852247062-1bbca38f7805.jpg"></re-img>
 
-<re-img src="mailboxes.jpg" title="Photo by Mathyas Kurmann on Unsplash"></re-img>
+Bizde bu blogda Türkiyede ki ekonometri öğrencileri için altın bir kaynak vizyonu ile anlatımımızı yapacağız. Anadolu üniversitelerinde verilen derslerin, öğrencileri ekonometrik analiz yapma niteliği taşımadığı ileride içeriklerimizin yorumlarında doğrulanacaktır.
 
-İktisat bilimi ölçüm üzerine kurulduğu için, ekonometri iktisada en yakın disiplindir diyebiriliz. Sosyal ve iktisadi göstergelerin ölçümünü içerir. :thumbsup: :sparkler:
+**Deniz-Derya** olan ekonometride eviews gibi paket programlar ise teorik çerçeveden neredeyse daha önemlidir. Ve bu programları çok iyi kullanan çok az insan vardır.
 
+> Bu yeteneği edineceğinizi umuyoruz.*
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
-
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
-
-### Cras semper consectetur elementum
-
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-:100: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
-
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros `bibendum cursus` nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
-
-```javascript
-import { createMuiTheme } from "material-ui/styles";
-import Color from "color";
-import colors from "./colors";
-```
-
-Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-
-### Donec hendrerit laoreet risus eget adipiscing.
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
