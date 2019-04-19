@@ -1,4 +1,11 @@
-﻿**Basit Regresyon**
+﻿---
+title: Basit Regresyon
+tags: ["ai", "whataboutism"]
+cover: basit-reg.jpg
+author: ibrahim karavas
+---
+
+**Basit Regresyon**
 Burada basitten kasıt **tek değişkenli** regresyondur. 
 **Peki bu ne demektir?**
 
