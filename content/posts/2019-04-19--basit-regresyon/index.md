@@ -1,4 +1,12 @@
-﻿**Basit Regresyon**
+---
+title: Basit regresyon analizi
+tags: ["testimonies"]
+cover: financial.jpg
+author: ibrahim karavas
+---
+<re-img src="financial.jpg"></re-img>
+
+**Basit Regresyon**
 Burada basitten kasıt **tek değişkenli** regresyondur. 
 **Peki bu ne demektir?**
 
