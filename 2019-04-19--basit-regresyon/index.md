@@ -1,4 +1,4 @@
-﻿---
+---
 title: Basit regresyon analizi
 tags: ["testimonies"]
 cover: financial.jpg
